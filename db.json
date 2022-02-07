@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "ReactJs",
+      "author": "Vaibhav"
+    },
+    {
+      "title": "NodeJS",
+      "author": "Rohit",
+      "id": 2
+    },
+    {
+      "title": "ITIS6177",
+      "author": "Gargi",
+      "id": 3
+    },
+    {
+      "title": "ITIS6177",
+      "author": "Gargi",
+      "id": 4
+    },
+    {
+      "title": "Data Structure",
+      "author": "Afroz",
+      "id": 5
+    },
+    {
+      "title": "System Integration",
+      "author": "Ron",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some random comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Gargi"
+  }
+}
